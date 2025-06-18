@@ -1,7 +1,7 @@
 # Ygor Caragilescov
 ## Hello, Devs!!
 Tenho 18 anos moro em são paulo e sou apaixonado por programação e felinos! Sou iniciante no universo da programação, quanto mais aprendo e passo raiva, mais eu amo tudo isso!
-<div class="tenor-gif-embed" data-postid="14796708" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708">Cat Funny Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="https://tenor.com/pt-BR/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708"
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 <div>
@@ -16,5 +16,3 @@ Tenho 18 anos moro em são paulo e sou apaixonado por programação e felinos! S
 <a href="https://github.com/YgorCaragilescov"<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-![Snake animation](https://github.com/YgorCaragilescov/YgorCaragilescov/blob/output/github-contribution-grid-snake.svg)
