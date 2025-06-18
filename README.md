@@ -1,6 +1,6 @@
 # Ygor Caragilescov
 ## Hello, Devs!!
-Tenho 18 anos moro em são paulo e sou apaixonado por programação e felinos! Sou iniciante no universo da programação, quanto mais aprendo e passo raiva, mais eu amo tudo isso!
+Tenho 18 anos, moro em São Paulo e sou apaixonado por programação e felinos! Sou iniciante no universo da programação, quanto mais aprendo e passo raiva, mais eu amo tudo isso!
 
 ![mad-cat-fr-lol](https://github.com/user-attachments/assets/9bf46cf7-ad15-40ea-9bb6-ed4cadcac9f6)
 
