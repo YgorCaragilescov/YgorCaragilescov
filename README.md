@@ -2,7 +2,7 @@
 ## Hello, Devs!!
 Tenho 18 anos moro em são paulo e sou apaixonado por programação e felinos! Sou iniciante no universo da programação, quanto mais aprendo e passo raiva, mais eu amo tudo isso!
 
-"https://tenor.com/pt-BR/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708"
+https://tenor.com/pt-BR/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708
 
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/>
