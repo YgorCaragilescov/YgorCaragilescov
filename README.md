@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ygor Caragilescov
+## Hello, Devs!!
+Tenho 18 anos moro em são paulo e sou apaixonado por programação e felinos! Sou iniciante no universo da programação, quanto mais aprendo e passo raiva, mais eu amo tudo isso!
+<div class="tenor-gif-embed" data-postid="14796708" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708">Cat Funny Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## Estou aprendendo
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<div>
+:mortar_board: Estou atualmente em uma faculdade de Ciência da Computação na Uninove.
+:books: Estou começando a aprender Python e futuramente aprendendo outras linguagens.
+🛵💪 ja trabalhei em uma oficina de moto e também faço academia
+## Contatos:
+<div>
+<a href="https://www.instagram.com/ygor_caragilescov/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<!--
-**YgorCaragilescov/YgorCaragilescov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/YgorCaragilescov"<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+![Snake animation](https://github.com/YgorCaragilescov/YgorCaragilescov/blob/output/github-contribution-grid-snake.svg)
