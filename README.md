@@ -5,6 +5,7 @@ Tenho 18 anos moro em são paulo e sou apaixonado por programação e felinos! S
 ![Uploading tenor.gif…]()
 
 
+
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/>
 
